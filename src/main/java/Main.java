@@ -9,5 +9,6 @@ public class Main {
         catService.newCat("Min", 1, 1);
         catService.newCat("Ok", 5, 2);
         System.out.println(catService.allCats());
+        System.out.println("Ура");
     }
 }
